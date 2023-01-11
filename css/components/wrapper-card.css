@@ -1,0 +1,7 @@
+.wrapper-card {
+    display: flex;
+    width: 189px;
+    justify-content: start;
+    margin-left: 90px;
+    border-bottom: 10px solid #000;
+}
